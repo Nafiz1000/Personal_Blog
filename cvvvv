@@ -1,0 +1,148 @@
+Skip to content
+Why GitHub? 
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+
+Sign in
+Sign up
+Mahadi06
+/
+Lab_Performance-2_CV_Design
+100
+ Code Issues 0 Pull requests 0 Actions Projects 0 Security Insights
+All your code in one place
+GitHub makes it easy to scale back on context switching. Read rendered documentation, see the history of any file, and collaborate with contributors on projects across GitHub.
+
+ See pricing for teams and enterprises
+Lab_Performance-2_CV_Design/CV_Design.html
+@Mahadi06 Mahadi06 first commit
+78d1a39 1 hour ago
+112 lines (86 sloc)  2.83 KB
+  
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My CV</title>
+</head>
+<body>
+	<table border="1" width="80%" >
+		<tr>
+			<td>
+				<h3>Mahadi Masnad</h3>
+				<i>
+					<br> 55,Kamal Ataturk Avenue,
+				<br>Banani,Dhaka.
+				</i>
+				<br><b>Contact No:</b>0171000000
+				<br><b>Email:</b>yourmail@gmail.com
+				<br><b>Web:</b>www.aiub.edu
+			</td>
+
+			<td>
+				<img src="photo1.jpg" height="100px" width="100px">
+			</td>
+				
+       </tr>
+
+       <tr>
+       	<td colspan="2">
+       		<h3><u>Objective</u></h3>
+       		<p>
+       			The websites offerings demonstrate that the faculties of four different discplines are the nuclei of our teaching and pionering center,where leaders are created.
+       		</p>
+
+       	</td>
+
+       </tr>
+       <tr>
+       	<td colspan="2">
+       		<u><h3>Education</h3></u>
+       		<ul>
+       			<li><b>Masters in Computer Science</b>
+                     <br><i>American International University-Bangladesh(AIUB)</i>
+                     <br><b>Year:</b>2010
+                     <br><b>CGPA:</b>3.96
+
+       			</li>
+
+       			<li><b>Bachelor in CSE</b>
+                     <br><i>American International University-Bangladesh(AIUB)</i>
+                     <br><b>Year:</b>2010
+                     <br><b>CGPA:</b>3.96
+
+       			</li>
+
+
+       		</ul>
+       	</td>
+       </tr>
+
+       <tr>
+       	<td colspan="2">
+       		<u><h3>Projects</h3></u>
+       		<ol>
+       			<li>
+       				Face Recognition in Fisher Faces
+       				<br>This was implemented as a class project Using MatLab
+       			</li>
+
+       			<li>
+       				Face Recognition in Fisher Faces
+       				<br>This was implemented as a class project Using MatLab
+       			</li>
+
+       			<li>
+       				Face Recognition in Fisher Faces
+       				<br>This was implemented as a class project Using MatLab
+       			</li>
+
+       			<li>
+       				Face Recognition in Fisher Faces
+       				<br>This was implemented as a class project Using MatLab
+       			</li>
+
+
+       		</ol>
+
+
+       	</td>
+
+       </tr>
+       <tr>
+       	<td colspan="2">
+       		<u><h3>References</h3></u>
+       		<pre>
+       			<b>Mr. Mashiur Rahman</b>                                     <b>DR.Dip Nandi</b>
+
+       			<i>Director,FSIT</i>                                          <i>Head,Undergraduate Program</i>
+       			American International University-Bangladesh           American International University-Bangladesh
+       			<b>Contact No:</b>0171000000	                               <b>Contact No:</b>0171000000							
+		        <b>Email:</b>yourmail@gmail.com                               <b>Email:</b>yourmail@gmail.com
+			<b>Web:</b>www.aiub.edu                                       <b>Web:</b>www.aiub.edu
+
+       		</pre>
+       	</td>
+       </tr>
+		
+	</table>
+
+
+
+
+</body>
+</html>
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
